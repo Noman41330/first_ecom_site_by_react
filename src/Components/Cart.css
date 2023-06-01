@@ -1,0 +1,15 @@
+.cart{
+   
+    width: 350px;
+    text-align: center;
+    background-color: rgba(223, 220, 37, 0.411);
+    border-radius: 10px;
+}
+
+h1{
+    background-color: rgb(168, 156, 48);
+}
+
+.cartPrice{
+    background-color: rgb(173, 158, 69);
+}

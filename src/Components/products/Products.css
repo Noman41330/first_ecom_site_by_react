@@ -1,0 +1,34 @@
+.product{
+   display:  flex ;
+   border-bottom: 1px solid lightgrey;
+   margin-bottom: 5px;
+   margin-right: 5px;
+   padding-bottom: 5px;
+   padding-right: 10px;
+  
+}
+
+.product h3{
+    color:blue;
+    font-weight: 400;
+}
+.main_button{
+    background-color: rgb(177, 143, 31);
+    width: 350 px;
+    height: 35px;
+    border: 1px solid rgb(82, 80, 52);
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.main_button:hover{
+    background-color: darkslategray;
+    color: white;
+}
+
+.main_button:active {
+    background-color: #34526b;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }

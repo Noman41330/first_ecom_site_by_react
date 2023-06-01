@@ -1,0 +1,41 @@
+
+
+.header img{
+    height: 100px;
+   
+   
+    
+}
+.header{
+    
+    text-align: center;
+}
+
+.header nav{
+    background-color: black;
+    line-height: 50px;
+    
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+    padding: 5px;
+    
+}
+nav a:hover{
+    background-color: gray;
+    color: black;
+}
+
+.header input[type=text] {
+   
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+    width: 550px;
+  }
+
